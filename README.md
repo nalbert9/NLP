@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-This repository contains projects for the Natural Language Processing, Nanodegree via [Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892). We will build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!
+We will build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more.
 
 ## Projects Overview
 
