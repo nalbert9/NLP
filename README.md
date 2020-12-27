@@ -11,4 +11,4 @@ We will build probabilistic and deep learning models, such as hidden Markov mode
 >[Machine_Translation](https://github.com/nalbert9/NLP/tree/master/Machine_Translation): In the second project, we will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Our completed pipeline will accept English text as input and return the French translation.
 
 ### Communicating with Natural Language
->[Speech_Recognizer](): In the third project, we will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
+>[Speech_Recognizer](https://github.com/nalbert9/NLP/tree/master/Speech_Recognizer): In the third project, we will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
