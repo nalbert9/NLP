@@ -5,11 +5,11 @@
 
 ## Project Overview
 
-In this notebook, you will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!  
+In this notebook, we will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. 
 
 ![ASR Pipeline][image1]
 
-We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) that will be used to train and evaluate your models. Your algorithm will first convert any raw audio to feature representations that are commonly used for ASR. You will then move on to building neural networks that can map these audio features to transcribed text. After learning about the basic types of layers that are often used for deep learning-based approaches to ASR, you will engage in your own investigations by creating and testing your own state-of-the-art models. Throughout the notebook, we provide recommended research papers for additional reading and links to GitHub repositories with interesting implementations.
+We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) that will be used to train and evaluate your models. Our algorithm will first convert any raw audio to feature representations that are commonly used for ASR. We will then move on to building neural networks that can map these audio features to transcribed text. After learning about the basic types of layers that are often used for deep learning-based approaches to ASR, we will engage in our own investigations by creating and testing your own state-of-the-art models.
 
 ## Project Instructions
 
@@ -17,7 +17,7 @@ We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) 
 
 This project requires GPU acceleration to run efficiently.
 
-1. Follow the Cloud Computing Setup instructions lesson to create an EC2 instance. (The lesson includes all the required package and library installation instructions.)
+1. Follow the Cloud Computing Setup instructions lesson to create an EC2 instance.
 
 2. Obtain the appropriate subsets of the LibriSpeech dataset, and convert all flac files to wav format.
 ```
