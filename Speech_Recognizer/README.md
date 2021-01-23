@@ -51,8 +51,8 @@ You should run this project with GPU acceleration for best performance.
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/udacity/AIND-VUI-Capstone.git
-cd AIND-VUI-Capstone
+git clone https://github.com/nalbert9/NLP.git
+cd Speech_Recognizer
 ```
 
 2. Create (and activate) a new environment with Python 3.6 and the `numpy` package.
