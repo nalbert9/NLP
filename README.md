@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-We will build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more.
+We will build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation.
 
 ## Projects Overview
 
